@@ -1,0 +1,1 @@
+Works with SFML 2.5.1, 64-bit.
